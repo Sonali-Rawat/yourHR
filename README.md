@@ -40,4 +40,10 @@ Install Required Packages:
 npm install express mongoose multer body-parser cors
 
 
+![Screenshot 2024-08-28 225225](https://github.com/user-attachments/assets/0db6ef38-8c07-4231-bd36-8f45ae12273f)
+![Screenshot 2024-08-28 225308](https://github.com/user-attachments/assets/de72f731-5f84-48cf-84c6-f5a8587fef70)
+![Screenshot 2024-08-28 225822](https://github.com/user-attachments/assets/2ccd35c0-3de4-4756-bb6e-b3a64bb6c921)
+![Screenshot 2024-08-28 225842](https://github.com/user-attachments/assets/e4f43f8f-4949-4441-9217-cedea3f72cc6)
+![Screenshot 2024-08-28 230031](https://github.com/user-attachments/assets/7214e5a5-356a-443d-b057-4622b7a6b31d)
+![Screenshot 2024-08-28 230541](https://github.com/user-attachments/assets/c3d8e297-db0a-4799-b469-1997c49a0f89)
 
