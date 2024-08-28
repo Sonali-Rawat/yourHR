@@ -25,3 +25,19 @@ User Registration: Allows job seekers to sign up by providing personal informati
 Resume Upload: Users can upload their resumes in PDF, DOC, or DOCX format.
 Secure Data Storage: User information and resumes are securely stored in a MongoDB database.
 Responsive Design: The website is designed to be responsive, ensuring usability across various devices.
+
+
+process:
+
+ Initialize the Project
+
+
+mkdir yourhr-webapp
+cd yourhr-webapp
+npm init -y
+
+Install Required Packages:
+npm install express mongoose multer body-parser cors
+
+
+
